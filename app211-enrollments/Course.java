@@ -8,7 +8,7 @@ import java.util.*;
  * motified by: Milena
  * @version 1.0 14/07/2021
  */
-public class Course
+public class Course extends Course
 {
     // A unique identifier e.g. BT1CTG1
     private String code;
