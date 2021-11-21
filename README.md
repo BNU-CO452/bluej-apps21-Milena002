@@ -1,5 +1,5 @@
 # Milena's Repository
-[Milena BlueJ Apps Repository](https://github.com/Milena002/BlueJ-Apps21-1/wiki/App21-03-Products)
+[Milena BlueJ Apps Repository](https://github.com/Milena002/BlueJ-Apps21-1)
 
 
 # CO452 Application Template 2021
